@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="Arhaan Kaushal. Exploring the intersection of algebraic structures and deep learning methods. The Farey tessellation: PSL(2,Z) tiling the hyperbolic plane." src="assets/banner-light.svg" width="100%">
+    <img alt="Arhaan Kaushal. Exploring the intersection of algebraic structures and deep learning methods. The Cayley graph of the free group on two generators." src="assets/banner-light.svg" width="100%">
   </picture>
 </p>
 
