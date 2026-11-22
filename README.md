@@ -1,5 +1,8 @@
 <p align="center">
-  <img alt="The E8 root system: all 240 roots projected onto the Coxeter plane, with nearest-neighbour edges." src="assets/e8.svg" width="380">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img alt="Arhaan Kaushal. Exploring the intersection of algebraic structures and deep learning methods. The Farey tessellation: PSL(2,Z) tiling the hyperbolic plane." src="assets/banner-light.svg" width="100%">
+  </picture>
 </p>
 
 Hey, I am Arhaan. I enjoy maths, and in particular looking at the maths underlying modern AI. Currently I am curious to see how algebraic structure can play a role. I am open to learning and trying new things :)
