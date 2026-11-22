@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/surface-dark.svg">
-    <img alt="Arhaan Kaushal. Exploring the intersection of algebraic structures and deep learning methods. A loss surface as a 3D wireframe, with a ball rolling into the minimum by gradient descent." src="assets/surface-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/nn-dark.svg">
+    <img alt="Arhaan Kaushal. Exploring the intersection of algebraic structures and deep learning methods. A Cayley graph of the dihedral group D4 feeding into a neural network." src="assets/nn-light.svg" width="100%">
   </picture>
 </p>
 
