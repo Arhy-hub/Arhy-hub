@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="Arhaan Kaushal. Exploring the intersection of algebraic structures and deep learning methods. Contours of a loss landscape with momentum gradient-descent trajectories." src="assets/banner-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/loss-dark.svg">
+    <img alt="Arhaan Kaushal. Exploring the intersection of algebraic structures and deep learning methods. Contours of a loss landscape with momentum gradient-descent trajectories." src="assets/loss-light.svg" width="100%">
   </picture>
 </p>
 
