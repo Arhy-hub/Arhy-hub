@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Pixel-art Cayley tables of the groups Z12, D6, Q8, A4 and S4. Each pixel is the product of its row and column element; hue marks the element, lightness its coset." src="assets/cayley-tables.svg" width="100%">
+  <img alt="The E8 root system: all 240 roots projected onto the Coxeter plane, with nearest-neighbour edges." src="assets/e8.svg" width="380">
 </p>
 
 Hey, I am Arhaan. I enjoy maths, and in particular looking at the maths underlying modern AI. Currently I am curious to see how algebraic structure can play a role. I am open to learning and trying new things :)
