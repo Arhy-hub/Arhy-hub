@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Arhaan Kaushal. Exploring the intersection of algebraic structures and deep learning methods. Koi swimming Lissajous orbits over loss-landscape contours, under lily pads on a golden-angle spiral." src="assets/banner-koi.svg" width="100%">
+  <img alt="Pixel-art Cayley tables of the groups Z12, D6, Q8, A4 and S4. Each pixel is the product of its row and column element; hue marks the element, lightness its coset." src="assets/cayley-tables.svg" width="100%">
 </p>
 
 Hey, I am Arhaan. I enjoy maths, and in particular looking at the maths underlying modern AI. Currently I am curious to see how algebraic structure can play a role. I am open to learning and trying new things :)
