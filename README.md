@@ -1,10 +1,8 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="Arhaan Kaushal. Exploring the intersection of algebraic structures and deep learning methods. A Cayley graph of the dihedral group D4 mapped by a representation into a neural network." src="assets/banner-light.svg" width="100%">
-  </picture>
+  <img alt="Arhaan Kaushal. Exploring the intersection of algebraic structures and deep learning methods. Koi swimming Lissajous orbits over loss-landscape contours, under lily pads on a golden-angle spiral." src="assets/banner-koi.svg" width="100%">
 </p>
 
+Hey, I am Arhaan. I enjoy maths, and in particular looking at the maths underlying modern AI. Currently I am curious to see how algebraic structure can play a role. I am open to learning and trying new things :)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arhaan-kaushal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-arhaan--kaushal-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
@@ -16,7 +14,6 @@
   <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white">
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
 </p>
